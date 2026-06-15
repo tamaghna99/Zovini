@@ -1,2 +1,1 @@
-# Zovini
-This is Zovini public gaming website...like other apps like medal etc!!
+C:/Users/Jayat/Documents/Codex/2026-06-15/todays-project-make-a-app-the/outputs/zovini/index.html
